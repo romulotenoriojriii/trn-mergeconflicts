@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {   
-        String myName = "Mikael Gulapa";
+        String myName = "Kenneth Bolico";
         System.out.println( "my name is " + myName );
     }
 }
