@@ -12,18 +12,25 @@ public class App
 
         String myName = "Mikael Gulapa";
 
-		System.out.println("MAG ADIB ADIB lang pagbigayn");
+        // last na bago mag out -eris
+
+	System.out.println("MAG ADIB ADIB lang pagbigayn");
         System.out.println("mas kita sa taas,  hehe"); // eris
         System.out.println("pull n lng kayo ulit.  hehe");  //eris
-		System.out.println("ETO AKIN -- MACKY! "); //heheheheh
-		System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
-		//<!----------------------------------------!>
-
-		//Last na 'to bago mag out ;D
-		System.out.println("This is <3  "); //hahahahha
 	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
 	System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
 	//<!----------------------------------------!>
+
+        //Last na 'to bago mag out ;D
+	System.out.println("This is <3  "); //hahahahha
+	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
+	System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
+	//<!----------------------------------------!>
+		//Last na 'to bago mag out ;D
+		System.out.println("This is <3  "); //hahahahha
+		System.out.println("ETO AKIN -- MACKY! "); //heheheheh
+		System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
+		//<!----------------------------------------!>
 
 		//Last na 'to bago mag out ;D
 		//aaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -52,6 +59,11 @@ public class App
 		System.out.println( "Jahren Respeto going for the conflict added a new line"); //added new line
 		// ang gulo na po
 
+		System.out.println( "WAHAHAHAHAHAHAHAHAHA! 3:)"); // Epal lang :)
+		//CIERON D2 TAYO
+                // hehe
+		System.out.println( "LANCE MICHAEL SAMONTE going for the conflict added a new line"); //added new line
 		System.out.println("CIERON ADDED NEW LINE ^_^ ");//added new line
+
     }
 }
