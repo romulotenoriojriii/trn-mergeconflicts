@@ -13,6 +13,7 @@ public class App
 
         System.out.println( "my name is " + myName );
         System.out.println( "Aldwin Paolo Delgado added a new line"); //Line ko :P
-	System.out.println( "Kenneth Bolico added a new line"); // (^,....,^)
+		System.out.println( "Kenneth Bolico added a new line"); // (^,....,^)
+		System.out.println( "Bryan Condino added a new line"); // Epic
     }
 }
