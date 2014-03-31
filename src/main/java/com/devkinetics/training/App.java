@@ -5,16 +5,11 @@ package com.devkinetics.training;
  *
  */
 
-/**
- * last commit : kenneth bolico
- */
 public class App 
 {
     public static void main( String[] args )
     {   
-        String myName = "Mikael Gulapa"; //name of trainer
-        System.out.println( "my name is " + myName ); //this line will print the name 
-	System.out.println("Kenneth Bolico added a new line"); //add new line below
-        System.out.println("John Eris Villanueva added a new line"); //add new line below
+        String myName = "Mikael Gulapa"; /* Change this to your own name */
+        System.out.println( "my name is " + myName );
     }
 }
