@@ -11,7 +11,7 @@ public class App
     {
         String myName = "Mikael Gulapa";
 	
-	System.out.println("This is <3 "); //hahahahha
+	System.out.println("This is <3  "); //hahahahha
 	
         System.out.println( "my name is " + myName );
         System.out.println( "Aldwin Paolo Delgado added a new line"); //Line ko :P
