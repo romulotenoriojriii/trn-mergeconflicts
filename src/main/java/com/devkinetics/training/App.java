@@ -43,8 +43,13 @@ public class App
 		System.out.println( "John Eris Villanueva added a new line"); //added new line
 		System.out.println( "Going for Step 4-Jahren"); //added new line
 		System.out.println( "Lance Michael Samonte added a new line"); //added new line
+<<<<<<< HEAD
+		System.out.println( "Danica Sharon Narciso added a new line"); //added new line for conflicts
+                // ang gulo na po
+=======
 		System.out.println( "Jahren Respeto going for the conflict added a new line"); //added new line
 		// ang gulo na po
 
+>>>>>>> cb7916d412843fb38bc1bf5b49a664d0e1bf64d4
     }
 }
