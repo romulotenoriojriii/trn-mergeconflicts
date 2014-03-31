@@ -5,11 +5,11 @@ package com.devkinetics.training;
  *
  */
 
-public class App 
+public class App
 {
     public static void main( String[] args )
-    {   
-        String myName = "Kenneth Bolico"; /* Change this to your own name */
+    {
+        String myName = "Bryan Condino"; /* Change this to your own name */
         System.out.println( "my name is " + myName );
     }
 }
