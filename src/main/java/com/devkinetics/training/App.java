@@ -52,5 +52,6 @@ public class App
 		System.out.println( "Jahren Respeto going for the conflict added a new line"); //added new line
 		// ang gulo na po
 
+		System.out.println("CIERON ADDED NEW LINE ^_^ ");//added new line
     }
 }
