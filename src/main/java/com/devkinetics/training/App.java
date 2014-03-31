@@ -16,5 +16,6 @@ public class App
 		System.out.println( "Kenneth Bolico added a new line"); // (^,....,^)
 		System.out.println( "Bryan Condino added a new line"); // Epic
 		System.out.println( "Joy Esparcia added a new line"); //added new line 
+		System.out.println( "Czarina Lou Marave added a new line"); //added new line 
     }
 }
