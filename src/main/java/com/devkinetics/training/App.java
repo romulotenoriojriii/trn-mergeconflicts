@@ -21,7 +21,7 @@ public class App
 	System.out.println( "Cieron Panaguiton added a new line"); //added new line
 	System.out.println( "Erwin Praico added a new line"); //added new line
 	System.out.println( "Jahren Respeto added a new line"); //added new line
-
+	System.out.println( "John Mark Sayson added a new line"); //This is me
         // start conflicts xD
         System.out.println( "John Eris Villanueva added a new line"); //added new line
     }
