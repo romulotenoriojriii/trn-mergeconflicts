@@ -9,7 +9,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        String myName = "Czarina Lou Marave"; /* Change this to your own name */
+        String myName = "Danica Sharon Narciso"; /* Change this to your own name */
         System.out.println( "my name is " + myName );
     }
 }
