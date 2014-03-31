@@ -6,7 +6,7 @@ package com.devkinetics.training;
  */
 
 /**
- * las commit : kenneth bolico
+ * last commit : kenneth bolico
  */
 public class App 
 {
