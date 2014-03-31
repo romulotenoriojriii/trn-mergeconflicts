@@ -19,6 +19,7 @@ public class App
 		System.out.println( "Czarina Lou Marave added a new line"); //added new line
 		System.out.println( "Danica Sharon Narciso added a new line"); //added new line
 		System.out.println( "Cieron Panaguiton added a new line"); //added new line
+		System.out.println("ABCD TIKI TIKI"); //Conflicting error
 		System.out.println( "Erwin Praico added a new line"); //added new line
 		System.out.println( "Jahren Respeto added a new line"); //added new line
     }
