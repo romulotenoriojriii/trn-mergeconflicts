@@ -9,6 +9,7 @@ public class App
 {
     public static void main( String[] args )
     {
+
         String myName = "Mikael Gulapa";
 
         System.out.println("mas kita sa taas,  hehe"); // eris
@@ -16,6 +17,7 @@ public class App
 	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
 	//<!----------------------------------------!>
 	
+	//Last na 'to bago mag out ;D
 	System.out.println("This is <3  "); //hahahahha
 
         System.out.println( "my name is " + myName );
