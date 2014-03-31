@@ -49,6 +49,10 @@ public class App
 		System.out.println( "Jahren Respeto going for the conflict added a new line"); //added new line
 		// ang gulo na po
 
+		
+		System.out.println( "JOY ESPARCIA added new line"); //added new line
+		// Kay Joy
+
 >>>>>>> cb7916d412843fb38bc1bf5b49a664d0e1bf64d4
     }
 }
