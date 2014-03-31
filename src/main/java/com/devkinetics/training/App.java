@@ -11,7 +11,7 @@ public class App
     {
 
         String myName = "Mikael Gulapa";
-       
+
         // last na bago mag out -eris
 
 	System.out.println("MAG ADIB ADIB lang pagbigayn");
@@ -62,7 +62,8 @@ public class App
 		System.out.println( "WAHAHAHAHAHAHAHAHAHA! 3:)"); // Epal lang :)
 		//CIERON D2 TAYO
                 // hehe
-		System.out.println( "LANCE MICHAEL SAMONTE going for the conflict added a new line"); //added new line
 		System.out.println( "LANCE MICHAEL SAMONTE going for the conflict added a new line AGAIN"); //added new line
+		System.out.println("CIERON ADDED NEW LINE ^_^ ");//added new line
+
     }
 }
