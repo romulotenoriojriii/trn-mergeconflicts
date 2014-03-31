@@ -20,7 +20,13 @@ public class App
 
 		//Last na 'to bago mag out ;D
 		System.out.println("This is <3  "); //hahahahha
+	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
+	System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
+	//<!----------------------------------------!>
 
+		//Last na 'to bago mag out ;D
+		//aaaaaaaaaaaaaaaaaaaaaaaaaaa
+		System.out.println("This is <3  "); //hahahahha
         System.out.println( "my name is " + myName );
         System.out.println( "Aldwin Paolo Delgado added a new line"); //Line ko :P
 		System.out.println( "Kenneth Bolico added a new line"); // (^,....,^)
