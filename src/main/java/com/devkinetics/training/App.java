@@ -63,6 +63,6 @@ public class App
 		//CIERON D2 TAYO
                 // hehe
 		System.out.println( "LANCE MICHAEL SAMONTE going for the conflict added a new line"); //added new line
-
+		System.out.println( "LANCE MICHAEL SAMONTE going for the conflict added a new line AGAIN"); //added new line
     }
 }
