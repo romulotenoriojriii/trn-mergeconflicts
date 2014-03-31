@@ -9,7 +9,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        String myName = "Lance Michael Samonte"; /* Change this to your own name */
+        String myName = "Mikael Gulapa";
+
         System.out.println( "my name is " + myName );
+        System.out.println( "Aldwin Paolo Delgado added a new line"); //Line ko :P
     }
 }
