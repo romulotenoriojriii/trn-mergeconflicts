@@ -51,6 +51,10 @@ public class App
 
 		System.out.println( "Jahren Respeto going for the conflict added a new line"); //added new line
 		// ang gulo na po
+		
+		
+		//CIERON D2 TAYO
+		System.out.println( "LANCE MICHAEL SAMONTE going for the conflict added a new line"); //added new line
 
     }
 }
