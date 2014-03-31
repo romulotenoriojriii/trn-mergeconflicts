@@ -10,9 +10,14 @@ public class App
     public static void main( String[] args )
     {
         String myName = "Mikael Gulapa";
+
+        System.out.println("mas kita sa taas,  hehe"); // eris
+        System.out.println("pull n lng kayo ulit.  hehe");  //eris
+	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
+
 	
 	System.out.println("This is <3  "); //hahahahha
-	
+
         System.out.println( "my name is " + myName );
         System.out.println( "Aldwin Paolo Delgado added a new line"); //Line ko :P
 		System.out.println( "Kenneth Bolico added a new line"); // (^,....,^)
@@ -44,5 +49,6 @@ public class App
         System.out.println( "John Eris Villanueva added a new line"); //added new line
 		System.out.println( "Lance Michael Samonte added a new line"); //added new line
 		System.out.println( "Danica Sharon Narciso added a new line"); //added new line for conflicts
+                // ang gulo na po
     }
 }
