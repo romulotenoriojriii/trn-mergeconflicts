@@ -15,5 +15,6 @@ public class App
         String myName = "Mikael Gulapa"; //name of trainer
         System.out.println( "my name is " + myName ); //this line will print the name 
 	System.out.println("Kenneth Bolico added a new line"); //add new line below
+        System.out.println("John Eris Villanueva added a new line"); //add new line below
     }
 }
