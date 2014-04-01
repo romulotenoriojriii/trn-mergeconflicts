@@ -45,9 +45,6 @@ public class App
 		System.out.println( "Jahren Respeto added a new line"); //added new line
 		System.out.println( "John Mark Sayson added a new line"); //This is me
         System.out.println( "John Eris Villanueva added a new line"); //added new line
-	
-
-
 		System.out.println( "Going for Step 4-Jahren"); //added new line
 		System.out.println( "Lance Michael Samonte added a new line"); //added new line
 		System.out.println( "Jahren Respeto going for the conflict added a new line"); //added new line
