@@ -16,7 +16,9 @@ public class App
 
 	System.out.println("Hello World"); //Nico
 	System.out.println("Eto sakin Nico!"); //Macky
-	
+	System.out.println("Error check");
+
+
 
 	System.out.println("MAG ADIB ADIB lang pagbigayn");
         System.out.println("mas kita sa taas,  hehe"); // eris
