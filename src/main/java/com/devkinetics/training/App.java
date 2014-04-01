@@ -11,7 +11,7 @@ public class App
     {
 
         String myName = "Mikael Gulapa";
-
+        // last na bago mag out -eris
         System.out.println("mas kita sa taas,  hehe"); // eris
         System.out.println("pull n lng kayo ulit.  hehe");  //eris
 	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
