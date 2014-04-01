@@ -14,6 +14,8 @@ public class App
 
         // last na bago mag out -eris
 
+	System.out.println("Hello World"); //Nico
+
 	System.out.println("MAG ADIB ADIB lang pagbigayn");
         System.out.println("mas kita sa taas,  hehe"); // eris
         System.out.println("pull n lng kayo ulit.  hehe");  //eris
