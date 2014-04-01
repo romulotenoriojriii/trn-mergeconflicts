@@ -12,7 +12,7 @@ public class App
         String myName = "Mikael Gulapa";
 
         System.out.println("mas kita sa taas,  hehe"); // eris
-        
+        System.out.println("pull n lng kayo ulit.  hehe");  //eris
 	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
 
 	
