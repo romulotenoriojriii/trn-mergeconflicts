@@ -11,6 +11,7 @@ public class App
     {
 
         String myName = "Mikael Gulapa";
+		System.out.println("Joy Esparcia added new line"); //4/4/2014
 
         // last na bago mag out -eris
 
