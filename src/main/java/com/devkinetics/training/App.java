@@ -12,17 +12,31 @@ public class App
 
         String myName = "Mikael Gulapa";
 
+        // last na bago mag out -eris
+
+	System.out.println("Hello World"); //Nico
+	System.out.println("Eto sakin Nico!"); //Macky
+	System.out.println("test");
+
+	System.out.println("For Error!"); //Macky
+
+	System.out.println("MAG ADIB ADIB lang pagbigayn");
         System.out.println("mas kita sa taas,  hehe"); // eris
         System.out.println("pull n lng kayo ulit.  hehe");  //eris
-		System.out.println("ETO AKIN -- MACKY! "); //heheheheh
-		System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
-		//<!----------------------------------------!>
-
-		//Last na 'to bago mag out ;D
-		System.out.println("This is <3  "); //hahahahha
 	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
 	System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
 	//<!----------------------------------------!>
+
+        //Last na 'to bago mag out ;D
+	System.out.println("This is <3  "); //hahahahha
+	System.out.println("ETO AKIN -- MACKY! "); //heheheheh
+	System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
+	//<!----------------------------------------!>
+		//Last na 'to bago mag out ;D
+		System.out.println("This is <3  "); //hahahahha
+		System.out.println("ETO AKIN -- MACKY! "); //heheheheh
+		System.out.println( "Jahren Respeto going for the conflict 2 added a new line"); //added new line
+		//<!----------------------------------------!>
 
 		//Last na 'to bago mag out ;D
 		//aaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -42,17 +56,31 @@ public class App
 		System.out.println( "John Eris Villanueva added a new line"); //added new line
 		System.out.println( "Going for Step 4-Jahren"); //added new line
 		System.out.println( "Lance Michael Samonte added a new line"); //added new line
-<<<<<<< HEAD
+
 		System.out.println( "Danica Sharon Narciso added a new line"); //added new line for conflicts
                 // ang gulo na po
-=======
+
+		System.out.println( "Czarina Lou marave: Step 4 additional"); //added new line
+
 		System.out.println( "Jahren Respeto going for the conflict added a new line"); //added new line
 		// ang gulo na po
+		
+		System.out.println( "JOY ESPARCIA added a new line"); //added new line
+		// additional sa step 4 4/4/2014
 
+<<<<<<< HEAD
 		
 		System.out.println( "JOY ESPARCIA added new line"); //added new line
 		// Kay Joy
 
 >>>>>>> cb7916d412843fb38bc1bf5b49a664d0e1bf64d4
+=======
+		System.out.println( "WAHAHAHAHAHAHAHAHAHA! 3:)"); // Epal lang :)
+		//CIERON D2 TAYO
+                // hehe
+		System.out.println( "LANCE MICHAEL SAMONTE going for the conflict added a new line AGAIN"); //added new line
+		System.out.println("CIERON ADDED NEW LINE ^_^ ");//added new line
+
+>>>>>>> 4791c8c6b7944c732c0c4fc542cb31f0c9cb2f36
     }
 }
