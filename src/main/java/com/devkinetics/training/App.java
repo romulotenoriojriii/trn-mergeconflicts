@@ -68,7 +68,15 @@ public class App
 		
 		System.out.println( "JOY ESPARCIA added a new line"); //added new line
 		// additional sa step 4 4/4/2014
-
+		
+		//added 6-28-2014
+		String newOne= "Gilbert Nañas";
+			System.out.println( "My name is" + newOne); 
+			System.out.println( "Gilbert added a new line");
+			System.out.println( "xenovhae added a new line");
+			System.out.println( "Done for step 2 & 4");
+		
+	
 <<<<<<< HEAD
 		
 		System.out.println( "JOY ESPARCIA added new line"); //added new line
