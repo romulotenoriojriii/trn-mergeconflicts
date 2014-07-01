@@ -10,7 +10,7 @@ public class App
     public static void main( String[] args )
     {
 
-        String myName = "Mikael Gulapa";
-		System.out.println("Joy Esparcia added new line"); //4/4/2014
+        String myName = "Gilbert Nanas";
+		System.out.println("Gilbert added new line"); //4/4/2014
     }
 }
