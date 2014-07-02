@@ -1,11 +1,9 @@
-public class App
+ public class App
 {
     public static void main( String[] args )
     {
 
         String myName = "Victor";
-
-        System.out.println("Victor" + myName);
-        System.out.println("Jiekokwago added new line"); //4/4/2014
+  System.out.println("Jiekokwago added new line"); //4/4/2014
     }
 }
