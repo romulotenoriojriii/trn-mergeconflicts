@@ -4,6 +4,8 @@ public class App
     {
 
         String myName = "Victor";
-  System.out.println("Gilbert added new line"); //4/4/2014
+
+        System.out.println("Victor" + myName);
+        System.out.println("Jiekokwago added new line"); //4/4/2014
     }
 }
