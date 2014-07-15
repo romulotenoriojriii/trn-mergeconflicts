@@ -1,3 +1,5 @@
+package com.devkinetics.training;
+
 
 public class App {
 
