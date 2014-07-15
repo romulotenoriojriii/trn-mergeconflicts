@@ -7,5 +7,6 @@ public class App {
 
         String myName = "Emmanuel Joseph N. Biglang-awa";
         System.out.println("My name is " + myName);
+	System.out.println("I AM SUPERMAN");
     }
 }
