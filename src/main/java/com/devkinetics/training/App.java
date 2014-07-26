@@ -5,8 +5,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        String myName = "Alberto I. Naperi Jr.";
-        //String myName2 = "I created a conflict again";
+        String myName = "Kim Conflict";
         System.out.println("My name is " + myName);
     }
 }
